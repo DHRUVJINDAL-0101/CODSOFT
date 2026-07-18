@@ -1,49 +1,145 @@
-# CodSoft Web Development Internship
+# 🚀 CodSoft Web Development Internship
 
-## Intern Name
-Bala S
+<div align="center">
 
-## Internship Domain
-Web Development
+# Hi 👋, I'm Dhruv Jindal
 
-## Internship Type
-Virtual Internship
+### 💻 Computer Science Engineering Student | Frontend Web Developer
 
-## Tasks Completed
-- Task 1: Portfolio Website   
-Description:
-This is a personal portfolio website created using HTML, CSS, and JavaScript.
-It showcases my skills, projects, and contact information with a clean and responsive design.
-### 📸 Screenshot
-![Portfolio Website](Screenshort/portfolio.png)
-### 🎥 Demo Video
-🔗 [Watch on LinkedIn](https://www.linkedin.com/posts/bala-s-160562370_codsoft-portfolio-webdeveloper-activity-7409841570805608448-j4hL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFvrMFgB3pHwfP7G7adrHoZJjDfDDe-0Q6k)
+I am passionate about creating responsive, user-friendly websites and continuously improving my frontend development skills.
 
+</div>
 
-- Task 2:Landing Page
-Description:
-This project is a landing page for a fictional AI tool called CodeHelper AI.
-It is designed using HTML and CSS with a modern dark theme to present features and call-to-action sections.
-### 📸 Screenshot
-![Landing page for codehelper AI Website](Screenshort/landingpage.png)
-### 🎥 Demo Video
-🔗 [Watch on LinkedIn](https://www.linkedin.com/posts/bala-s-160562370_codsoft-webdevelopment-html-activity-7409845661258440704-Hs3_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFvrMFgB3pHwfP7G7adrHoZJjDfDDe-0Q6k)
+---
 
+# 👨‍💻 About Me
 
-- Task 3: Calculator
-Description:
-This is a simple calculator application built using HTML, CSS, and JavaScript.
-It performs basic arithmetic operations such as addition, subtraction, multiplication, and division
-### 📸 Screenshot
-![calculator application](Screenshort/calculator.png)
-### 🎥 Demo Video
-🔗 [Watch on LinkedIn](https://www.linkedin.com/posts/bala-s-160562370_codsoft-javascript-webdevelopment-activity-7409849995929124864-3XW0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFvrMFgB3pHwfP7G7adrHoZJjDfDDe-0Q6k)
-  
+- 🎓 B.Tech CSE Student
+- 🌱 Currently Learning Java Full Stack Development
+- 💻 Passionate about Frontend Development
+- 🚀 Looking for Internship Opportunities
+- 📍 India
 
-## Technologies Used
-- HTML
-- CSS
+---
+
+# 🛠 Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- Java
+- Git
+- GitHub
+
+---
+
+# 📂 Projects
+
+## 🌐 Task 1 – Personal Portfolio Website
+
+### Description
+
+A responsive portfolio website built using HTML, CSS and JavaScript.
+
+### Features
+
+- Responsive Design
+- About Me
+- Skills
+- Projects
+- Contact Form
+- Resume Download
+
+📸 Screenshot
+
+![Portfolio](Screenshort/portfolio.png)
+
+📂 Project Folder
+
+`Task-1-Portfolio`
+
+---
+
+## 🎨 Task 2 – Landing Page
+
+### Description
+
+A responsive Landing Page created using HTML and CSS.
+
+### Features
+
+- Hero Section
+- Navigation Bar
+- Responsive Layout
+- Modern UI
+
+📸 Screenshot
+
+![Landing](Screenshort/landingpage.png)
+
+📂 Project Folder
+
+`Task-2-Landing-Page`
+
+---
+
+## 🧮 Task 3 – Calculator
+
+### Description
+
+A Calculator built using HTML, CSS and JavaScript.
+
+### Features
+
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+📸 Screenshot
+
+![Calculator](Screenshort/calculator.png)
+
+📂 Project Folder
+
+`Task-3-Calculator`
+
+---
+
+# 💻 Technologies Used
+
+- HTML5
+- CSS3cd 
 - JavaScript
 
-## Description
-This repository contains all the projects completed as part of the CodSoft Web Development Internship.
+---
+
+# 📞 Contact Me
+
+**Name:** Dhruv Jindal
+
+📧 Email:
+jindaldhruv442@gmail.com
+
+📱 Phone:
++91 8791582052
+
+💼 LinkedIn:
+https://www.linkedin.com/in/dhruv-jindal-1a8216423
+
+💻 GitHub:
+https://github.com/DHRUVJINDAL-0101
+
+---
+
+# ⭐ Repository
+
+This repository contains all the projects completed during my CodSoft Web Development Internship.
+
+Thank you for visiting my repository.
+
+⭐ If you like my work, don't forget to Star this repository.
+
+---
+
+© 2026 Dhruv Jindal
