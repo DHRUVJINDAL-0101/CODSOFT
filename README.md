@@ -52,7 +52,7 @@ A responsive portfolio website built using HTML, CSS and JavaScript.
 
 📸 Screenshot
 
-![Portfolio](Screenshort/portfolio.png)
+![Portfolio](./Screenshort/portfolio.png)
 
 📂 Project Folder
 
@@ -75,7 +75,7 @@ A responsive Landing Page created using HTML and CSS.
 
 📸 Screenshot
 
-![Landing](Screenshort/landingpage.png)
+![Landing](./Screenshort/landingpage.png)
 
 📂 Project Folder
 
@@ -98,7 +98,7 @@ A Calculator built using HTML, CSS and JavaScript.
 
 📸 Screenshot
 
-![Calculator](Screenshort/calculator.png)
+![Calculator](./Screenshort/calculator.png)
 
 📂 Project Folder
 
@@ -109,7 +109,7 @@ A Calculator built using HTML, CSS and JavaScript.
 # 💻 Technologies Used
 
 - HTML5
-- CSS3cd 
+- CSS3
 - JavaScript
 
 ---
